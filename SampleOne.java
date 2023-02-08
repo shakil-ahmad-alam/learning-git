@@ -8,4 +8,5 @@ public class SampleOne{
     x=scanner.nextInt();
     y=x*x;
     System.out.println("Square : "+y);
+    System.out.println("Thanks !");
     }
